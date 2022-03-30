@@ -13,5 +13,13 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dereje0130/bestbackend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dereje0130/bestbackend.git /issues"
   }
 }
+   
